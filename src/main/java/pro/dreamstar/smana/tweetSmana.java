@@ -1,4 +1,4 @@
-package pro.dreamstar;
+package pro.dreamstar.smana;
 
 import twitter4j.*;
 
