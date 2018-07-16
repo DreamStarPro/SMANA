@@ -9,5 +9,8 @@
         <module name="SMANA" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SMANA" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
