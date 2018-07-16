@@ -31,6 +31,8 @@
     <orderEntry type="library" name="Maven: com.ibm.watson.developer_cloud:text-to-speech:6.1.1" level="project" />
     <orderEntry type="library" name="Maven: com.ibm.watson.developer_cloud:tone-analyzer:6.1.1" level="project" />
     <orderEntry type="library" name="Maven: com.ibm.watson.developer_cloud:visual-recognition:6.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.twitter4j:twitter4j-stream:4.0.6" level="project" />
+    <orderEntry type="library" name="Maven: org.twitter4j:twitter4j-core:4.0.6" level="project" />
     <orderEntry type="library" name="Maven: com.restfb:restfb:2.7.0" level="project" />
   </component>
 </module>
